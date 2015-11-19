@@ -1,2 +1,2 @@
-# new-website
-My website with a new design!
+# minecrafterph.github.io
+###### My website with a new design!
